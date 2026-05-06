@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Sarah Smith",
+      "email": "sarah@mail.com",
+      "role": "User"
+    },
+    {
+      "id": "3",
+      "name": "Ali Ahmed",
+      "email": "ali@mail.com",
+      "role": "Editor"
+    },
+    {
+      "name": "sondos",
+      "email": "samysnds",
+      "role": "llll",
+      "id": "333"
+    },
+    {
+      "name": "mariam",
+      "email": "sami ",
+      "role": "rabie",
+      "id": "OgKFT6RaieI"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "email": "admin@test.com",
+      "password": "123456"
+    }
+  ]
+}
